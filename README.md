@@ -69,3 +69,5 @@ Java 21
 Spring Boot v3.5.3
 
 In memory H2 Data Base
+
+Junit + Mockito
